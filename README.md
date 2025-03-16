@@ -6,7 +6,7 @@ Your initial score is 100, and with each wrong guess, you will receive a hint, a
 
 ## How to Run
 1. Navigate to the project directory (`number_guesser`)
-2. Add the current directory to the `PYTHONPATH` and run the script:
+2. Add the current directory to the `PYTHONPATH` and run the `main.py` script:
 ```bash
 export PYTHONPATH=$PYTHONPATH:$(pwd)
 python src/main.py
